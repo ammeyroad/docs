@@ -4,6 +4,7 @@
 /* Heading dengan Barlow */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Barlow', sans-serif;
+  color: #007ACC;
 }
 
 /* Body dengan Urbanist */
@@ -21,3 +22,12 @@ body {
   font-weight: bold;
   color: #007ACC;
 }
+
+.w-0 {
+    background-color: #f4f4f5;
+}
+
+.code-block { 
+  background-color: #dfe6f4;
+  font-weight: bold;
+} 
