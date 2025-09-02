@@ -7,13 +7,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      "settings",
-      "pages",
-      "navigation",
-      "themes",
-      "custom-domain"
-    ],
     "tabs": [
       {
         "tab": "Guides",
