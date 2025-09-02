@@ -1,0 +1,23 @@
+/* include fonts via @import di CSS (alternatif jika tidak pakai <link>) */
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=Urbanist:wght@400;700&display=swap');
+
+/* Heading dengan Barlow */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Barlow', sans-serif;
+}
+
+/* Body dengan Urbanist */
+body {
+  font-family: 'Urbanist', sans-serif;
+}
+
+/* Contoh: Mengubah warna latar panel */
+.panel {
+  background-color: #f0f8ff;
+}
+
+/* Contoh: Mengubah gaya judul navigasi */
+.navbar-link {
+  font-weight: bold;
+  color: #007ACC;
+}
