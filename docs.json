@@ -7,6 +7,10 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "font": {
+    "heading": "Poppins",
+    "body": "Open Sans"
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
