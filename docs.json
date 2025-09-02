@@ -1,15 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "almond",
   "name": "BrandCFI",
   "colors": {
     "primary": "#2563EB",
-    "light": "#07C983",
+    "light": "#2563EB",
     "dark": "#15803D"
-  },
-  "font": {
-    "heading": "Poppins",
-    "body": "Open Sans"
   },
   "favicon": "/favicon.svg",
   "navigation": {
