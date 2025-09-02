@@ -3,9 +3,7 @@
   "theme": "almond",
   "name": "BrandCFI",
   "colors": {
-    "primary": "#2563EB",
-    "light": "#2563EB",
-    "dark": "#15803D"
+    "primary": "#2563EB"
   },
   "favicon": "/favicon.svg",
   "navigation": {
